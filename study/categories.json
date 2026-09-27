@@ -1,0 +1,30 @@
+[
+  {
+    "name": "body",
+    "studies": ["age", "race", "skin", "body", "pose", "accessibility"]
+  },
+  {
+    "name": "face",
+    "studies": ["face", "expression", "makeup", "nails"]
+  },
+  {
+    "name": "hair",
+    "studies": ["hair-color", "hair-style", "hair"]
+  },
+  {
+    "name": "clothing",
+    "studies": [
+      "outfit",
+      "top",
+      "bottom",
+      "dress",
+      "swim-and-sleep",
+      "footwear",
+      "clothing-detail"
+    ]
+  },
+  {
+    "name": "accessories",
+    "studies": ["accessory", "hair-accessory", "jewelry", "eyewear"]
+  }
+]
